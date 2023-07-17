@@ -1,0 +1,27 @@
+Model: SVM Classifier
+Data matrix: Tf-idf
+
+ROC_AUC scores for the test split:
+ROC_AUC score for harsh: 0.8147707643181444
+ROC_AUC score for extremely_harsh: 0.6443671749079809
+ROC_AUC score for vulgar: 0.817926460738538
+ROC_AUC score for threatening: 0.8745487180533176
+ROC_AUC score for disrespect: 0.7587300765327838
+ROC_AUC score for targeted_hate: 0.6109881236417287
+
+Mean ROC_AUC_score: 0.753555219698749
+
+Accuracy and f1 scores for the entire training data:
+Accuracy score for harsh: 0.940722255172954
+F1 score for harsh: 0.6827193770589997
+Accuracy score for extremely_harsh: 0.997437303461319
+F1 score for extremely_harsh: 0.8587291795188156
+Accuracy score for vulgar: 0.5393972627267539
+F1 score for vulgar: 0.18145297615496292
+Accuracy score for threatening: 0.999429268456451
+F1 score for threatening: 0.8957055214723927
+Accuracy score for disrespect: 0.9619848028738012
+F1 score for disrespect: 0.6648248643315244
+Accuracy score for targeted_hate: 0.9979408901173916
+F1 score for targeted_hate: 0.8711484593837535
+

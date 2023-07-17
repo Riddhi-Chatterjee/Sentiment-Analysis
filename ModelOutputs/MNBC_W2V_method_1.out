@@ -1,0 +1,27 @@
+Model: Multinomial Naive Bayes Classifier
+Data matrix: Word2Vec Method_1
+
+ROC_AUC scores for the test split:
+ROC_AUC score for harsh: 0.8117803741583706
+ROC_AUC score for extremely_harsh: 0.9067506268719092
+ROC_AUC score for vulgar: 0.836435266814477
+ROC_AUC score for threatening: 0.9142010848389148
+ROC_AUC score for disrespect: 0.838511893892748
+ROC_AUC score for targeted_hate: 0.8467358248956103
+
+Mean ROC_AUC_score: 0.8590691785786717
+
+Accuracy and f1 scores for the entire training data:
+Accuracy score for harsh: 0.8452935484596863
+F1 score for harsh: 0.3917005839674394
+Accuracy score for extremely_harsh: 0.9286662616170481
+F1 score for extremely_harsh: 0.14439946018893388
+Accuracy score for vulgar: 0.8857084992911631
+F1 score for vulgar: 0.33153461437220316
+Accuracy score for threatening: 0.9228830531740139
+F1 score for threatening: 0.056182869732855974
+Accuracy score for disrespect: 0.8834919777672765
+F1 score for disrespect: 0.3109987357774968
+Accuracy score for targeted_hate: 0.896194783861023
+F1 score for targeted_hate: 0.07905769614693552
+

@@ -1,0 +1,27 @@
+Model: XGBoost Classifier
+Data matrix: Word2Vec Method_1
+
+ROC_AUC scores for the test split:
+ROC_AUC score for harsh: 0.9482395386707178
+ROC_AUC score for extremely_harsh: 0.9769838094776268
+ROC_AUC score for vulgar: 0.964828826751183
+ROC_AUC score for threatening: 0.9685275460460563
+ROC_AUC score for disrespect: 0.9643821534540159
+ROC_AUC score for targeted_hate: 0.9498225524533619
+
+Mean ROC_AUC_score: 0.962130737808827
+
+Accuracy and f1 scores for the entire training data:
+Accuracy score for harsh: 0.9908682953032151
+F1 score for harsh: 0.9509261486649025
+Accuracy score for extremely_harsh: 0.9976611197529068
+F1 score for extremely_harsh: 0.8781341107871721
+Accuracy score for vulgar: 0.995333430320393
+F1 score for vulgar: 0.9550404312668463
+Accuracy score for threatening: 0.9994740317147686
+F1 score for threatening: 0.9076620825147349
+Accuracy score for disrespect: 0.9937667162792779
+F1 score for disrespect: 0.9346780813885306
+Accuracy score for targeted_hate: 0.9981535155944001
+F1 score for targeted_hate: 0.8891873740765615
+

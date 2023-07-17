@@ -1,0 +1,12 @@
+/disk1/riddhi/MLP-LSTM/VS_LSTM.py:114: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+  out = self.softmax(out) * 1
+/disk1/riddhi/MLP-LSTM/VS_LSTM.py:114: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+  out = self.softmax(out) * 1
+/disk1/riddhi/MLP-LSTM/VS_LSTM.py:114: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+  out = self.softmax(out) * 1
+/disk1/riddhi/MLP-LSTM/VS_LSTM.py:114: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+  out = self.softmax(out) * 1
+/disk1/riddhi/MLP-LSTM/VS_LSTM.py:114: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+  out = self.softmax(out) * 1
+/disk1/riddhi/MLP-LSTM/VS_LSTM.py:114: UserWarning: Implicit dimension choice for softmax has been deprecated. Change the call to include dim=X as an argument.
+  out = self.softmax(out) * 1

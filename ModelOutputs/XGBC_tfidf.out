@@ -1,0 +1,27 @@
+Model: XGBoost Classifier
+Data matrix: TF-IDF
+
+ROC_AUC scores for the test split:
+ROC_AUC score for harsh: 0.9652204327794276
+ROC_AUC score for extremely_harsh: 0.9746733724039514
+ROC_AUC score for vulgar: 0.9775534800279783
+ROC_AUC score for threatening: 0.9772918493891121
+ROC_AUC score for disrespect: 0.9697555370379302
+ROC_AUC score for targeted_hate: 0.9557673775645159
+
+Mean ROC_AUC_score: 0.9700436748671525
+
+Accuracy and f1 scores for the entire training data:
+Accuracy score for harsh: 0.9751116283754294
+F1 score for harsh: 0.8547923739879864
+Accuracy score for extremely_harsh: 0.9962846495596415
+F1 score for extremely_harsh: 0.7968176254589964
+Accuracy score for vulgar: 0.9909578218198503
+F1 score for vulgar: 0.9105601062652203
+Accuracy score for threatening: 0.999429268456451
+F1 score for threatening: 0.9001956947162427
+Accuracy score for disrespect: 0.9863024429548227
+F1 score for disrespect: 0.8485148514851486
+Accuracy score for targeted_hate: 0.9970791973947783
+F1 score for targeted_hate: 0.8147622427253371
+

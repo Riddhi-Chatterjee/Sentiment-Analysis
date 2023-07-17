@@ -1,0 +1,27 @@
+Model: AdaBoost Classifier
+Data matrix: Paragraph Vector - Distributed Bag of Words
+
+ROC_AUC scores for the test split:
+ROC_AUC score for harsh: 0.9541017913961436
+ROC_AUC score for extremely_harsh: 0.9547169342957821
+ROC_AUC score for vulgar: 0.9654212467311537
+ROC_AUC score for threatening: 0.9739238072898606
+ROC_AUC score for disrespect: 0.9628394608841077
+ROC_AUC score for targeted_hate: 0.9362890201838275
+
+Mean ROC_AUC_score: 0.9578820434634792
+
+Accuracy and f1 scores for the entire training data:
+Accuracy score for harsh: 0.0957821819850267
+F1 score for harsh: 0.17481974713535817
+Accuracy score for extremely_harsh: 0.010261976969303595
+F1 score for extremely_harsh: 0.020315476981700564
+Accuracy score for vulgar: 0.05306684273548271
+F1 score for vulgar: 0.1007853264046078
+Accuracy score for threatening: 0.002999138307277387
+F1 score for threatening: 0.00598034074553427
+Accuracy score for disrespect: 0.04915005763269508
+F1 score for disrespect: 0.0936950005866604
+Accuracy score for targeted_hate: 0.008975033292673374
+F1 score for targeted_hate: 0.017790397178380896
+

@@ -1,0 +1,27 @@
+Model: Random Forest Classifier
+Data matrix: Bag of Words
+
+ROC_AUC scores for the test split:
+ROC_AUC score for harsh: 0.929448330060812
+ROC_AUC score for extremely_harsh: 0.9749250684659472
+ROC_AUC score for vulgar: 0.9616222114494756
+ROC_AUC score for threatening: 0.9720498398841454
+ROC_AUC score for disrespect: 0.9535127114099231
+ROC_AUC score for targeted_hate: 0.947432493503559
+
+Mean ROC_AUC_score: 0.9564984424623103
+
+Accuracy and f1 scores for the entire training data:
+Accuracy score for harsh: 0.9201871104197674
+F1 score for harsh: 0.2860860860860861
+Accuracy score for extremely_harsh: 0.9897380230306964
+F1 score for extremely_harsh: 0.0
+Accuracy score for vulgar: 0.95665797513401
+F1 score for vulgar: 0.3117113915052426
+Accuracy score for threatening: 0.9970008616927226
+F1 score for threatening: 0.0
+Accuracy score for disrespect: 0.9533119215747714
+F1 score for disrespect: 0.09892008639308855
+Accuracy score for targeted_hate: 0.9910249667073266
+F1 score for targeted_hate: 0.0
+

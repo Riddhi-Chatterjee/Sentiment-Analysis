@@ -1,0 +1,27 @@
+Model: Bagging Classifier
+Data matrix: TF-IDF
+
+ROC_AUC scores for the test split:
+ROC_AUC score for harsh: 0.9717233615501615
+ROC_AUC score for extremely_harsh: 0.9847653165135708
+ROC_AUC score for vulgar: 0.9854853151791673
+ROC_AUC score for threatening: 0.9922415199787871
+ROC_AUC score for disrespect: 0.9788709325899577
+ROC_AUC score for targeted_hate: 0.9759585158207448
+
+Mean ROC_AUC_score: 0.9815074936053981
+
+Accuracy and f1 scores for the entire training data:
+Accuracy score for harsh: 0.9672332949115366
+F1 score for harsh: 0.84412265758092
+Accuracy score for extremely_harsh: 0.9770588301122439
+F1 score for extremely_harsh: 0.459673168160253
+Accuracy score for vulgar: 0.9849707360198748
+F1 score for vulgar: 0.8697254825880298
+Accuracy score for threatening: 0.9968441902886112
+F1 score for threatening: 0.639386189258312
+Accuracy score for disrespect: 0.9745408968318804
+F1 score for disrespect: 0.7843806274286798
+Accuracy score for targeted_hate: 0.9899058852493873
+F1 score for targeted_hate: 0.6197301854974706
+

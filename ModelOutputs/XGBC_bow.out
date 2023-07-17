@@ -1,0 +1,27 @@
+Model: XGBoost Classifier
+Data matrix: Bag of Words
+
+ROC_AUC scores for the test split:
+ROC_AUC score for harsh: 0.9633230608362685
+ROC_AUC score for extremely_harsh: 0.9700748680327528
+ROC_AUC score for vulgar: 0.9795500162473049
+ROC_AUC score for threatening: 0.9771541701511413
+ROC_AUC score for disrespect: 0.9722258348282276
+ROC_AUC score for targeted_hate: 0.9500327314294829
+
+Mean ROC_AUC_score: 0.9687267802541962
+
+Accuracy and f1 scores for the entire training data:
+Accuracy score for harsh: 0.9734665786322586
+F1 score for harsh: 0.8451035473966159
+Accuracy score for extremely_harsh: 0.9953222395058137
+F1 score for extremely_harsh: 0.7351077313054498
+Accuracy score for vulgar: 0.9895477791828468
+F1 score for vulgar: 0.8958983504235398
+Accuracy score for threatening: 0.9992278337940219
+F1 score for threatening: 0.8633663366336634
+Accuracy score for disrespect: 0.9846573932116519
+F1 score for disrespect: 0.8299640332382489
+Accuracy score for targeted_hate: 0.9966875188844996
+F1 score for targeted_hate: 0.7864357864357865
+

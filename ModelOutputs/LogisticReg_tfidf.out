@@ -1,0 +1,27 @@
+Model: Logistic Regression Classifier
+Data matrix: TF-IDF
+
+ROC_AUC scores for the test split:
+ROC_AUC score for harsh: 0.9488032978214281
+ROC_AUC score for extremely_harsh: 0.9753195096071696
+ROC_AUC score for vulgar: 0.9724795952093264
+ROC_AUC score for threatening: 0.9641888253597112
+ROC_AUC score for disrespect: 0.9613150061706726
+ROC_AUC score for targeted_hate: 0.9549367515289041
+
+Mean ROC_AUC_score: 0.962840497616202
+
+Accuracy and f1 scores for the entire training data:
+Accuracy score for harsh: 0.950111348605065
+F1 score for harsh: 0.7356812522234081
+Accuracy score for extremely_harsh: 0.9828780536935283
+F1 score for extremely_harsh: 0.45318084345961396
+Accuracy score for vulgar: 0.9766111975290681
+F1 score for vulgar: 0.7743467933491687
+Accuracy score for threatening: 0.9968553811031905
+F1 score for threatening: 0.4457593688362919
+Accuracy score for disrespect: 0.9682180865945232
+F1 score for disrespect: 0.6917064698219714
+Accuracy score for targeted_hate: 0.9893351537058382
+F1 score for targeted_hate: 0.4403992953611274
+

@@ -1,0 +1,27 @@
+Model: Random Forest Classifier
+Data matrix: TF-IDF
+
+ROC_AUC scores for the test split:
+ROC_AUC score for harsh: 0.9272126274903901
+ROC_AUC score for extremely_harsh: 0.975529052422055
+ROC_AUC score for vulgar: 0.9614217276732746
+ROC_AUC score for threatening: 0.9757901258490219
+ROC_AUC score for disrespect: 0.9511910465524144
+ROC_AUC score for targeted_hate: 0.9454775798015512
+
+Mean ROC_AUC_score: 0.9561036932981178
+
+Accuracy and f1 scores for the entire training data:
+Accuracy score for harsh: 0.9222126478586377
+F1 score for harsh: 0.3167207313476851
+Accuracy score for extremely_harsh: 0.9897380230306964
+F1 score for extremely_harsh: 0.0
+Accuracy score for vulgar: 0.959075191083159
+F1 score for vulgar: 0.3749786361305759
+Accuracy score for threatening: 0.9970008616927226
+F1 score for threatening: 0.0
+Accuracy score for disrespect: 0.9555388936760707
+F1 score for disrespect: 0.19297176518383102
+Accuracy score for targeted_hate: 0.9910249667073266
+F1 score for targeted_hate: 0.0
+

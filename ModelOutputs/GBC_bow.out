@@ -1,0 +1,27 @@
+Model: GB Classifier
+Data matrix: Bag of Words
+
+ROC_AUC scores for the test split:
+ROC_AUC score for harsh: 0.9306742286323842
+ROC_AUC score for extremely_harsh: 0.931280624945158
+ROC_AUC score for vulgar: 0.968867299201647
+ROC_AUC score for threatening: 0.7225584881799824
+ROC_AUC score for disrespect: 0.955045422645914
+ROC_AUC score for targeted_hate: 0.8746185210046056
+
+Mean ROC_AUC_score: 0.8971740974349486
+
+Accuracy and f1 scores for the entire training data:
+Accuracy score for harsh: 0.945444778925458
+F1 score for harsh: 0.6135552913198573
+Accuracy score for extremely_harsh: 0.9917747512841459
+F1 score for extremely_harsh: 0.4527177959791511
+Accuracy score for vulgar: 0.9769357311518705
+F1 score for vulgar: 0.7376193507320179
+Accuracy score for threatening: 0.9973589677592632
+F1 score for threatening: 0.3948717948717949
+Accuracy score for disrespect: 0.969661701675265
+F1 score for disrespect: 0.5959159338202414
+Accuracy score for targeted_hate: 0.9943486386374064
+F1 score for targeted_hate: 0.5982498011137629
+

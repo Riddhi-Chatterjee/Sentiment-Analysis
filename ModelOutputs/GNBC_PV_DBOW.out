@@ -1,0 +1,27 @@
+Model: Gaussian Naive Bayes Classifier
+Data matrix: Paragraph Vector - Distributed Bag of Words
+
+ROC_AUC scores for the test split:
+ROC_AUC score for harsh: 0.7158028384125749
+ROC_AUC score for extremely_harsh: 0.8341388347147733
+ROC_AUC score for vulgar: 0.740900125564863
+ROC_AUC score for threatening: 0.7782943779094804
+ROC_AUC score for disrespect: 0.727822218112815
+ROC_AUC score for targeted_hate: 0.7469328741264794
+
+Mean ROC_AUC_score: 0.7573152114734976
+
+Accuracy and f1 scores for the entire training data:
+Accuracy score for harsh: 0.5705461419023831
+F1 score for harsh: 0.2777725217128044
+Accuracy score for extremely_harsh: 0.678176826661266
+F1 score for extremely_harsh: 0.05765492702533522
+Accuracy score for vulgar: 0.5836314948581202
+F1 score for vulgar: 0.18402716528488272
+Accuracy score for threatening: 0.6405522176466617
+F1 score for threatening: 0.01595564454027414
+Accuracy score for disrespect: 0.5695560206125251
+F1 score for disrespect: 0.1669678824169842
+Accuracy score for targeted_hate: 0.6138864510902585
+F1 score for targeted_hate: 0.04096917530670989
+

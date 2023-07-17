@@ -1,0 +1,27 @@
+Model: Multinomial Naive Bayes Classifier
+Data matrix: Paragraph Vector - Distributed Memory
+
+ROC_AUC scores for the test split:
+ROC_AUC score for harsh: 0.7251941749772668
+ROC_AUC score for extremely_harsh: 0.8192491757795267
+ROC_AUC score for vulgar: 0.8057694941300001
+ROC_AUC score for threatening: 0.7893830875869
+ROC_AUC score for disrespect: 0.7842725167527067
+ROC_AUC score for targeted_hate: 0.8345494675039484
+
+Mean ROC_AUC_score: 0.7930696527883915
+
+Accuracy and f1 scores for the entire training data:
+Accuracy score for harsh: 0.8698440558968473
+F1 score for harsh: 0.33302583025830257
+Accuracy score for extremely_harsh: 0.9557820833052049
+F1 score for extremely_harsh: 0.11446597566471382
+Accuracy score for vulgar: 0.9183487477215959
+F1 score for vulgar: 0.30415188416914374
+Accuracy score for threatening: 0.972546636963028
+F1 score for threatening: 0.0715372907153729
+Accuracy score for disrespect: 0.9174373860797947
+F1 score for disrespect: 0.2787497542756045
+Accuracy score for targeted_hate: 0.9575935552105133
+F1 score for targeted_hate: 0.12246798603026775
+

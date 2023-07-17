@@ -1,0 +1,17 @@
+Model: Voting Classifier
+Data matrix: TF-IDF
+
+Accuracy and f1 scores for the entire training data:
+Accuracy score for harsh: 0.990297563759666
+F1 score for harsh: 0.949008998412045
+Accuracy score for extremely_harsh: 0.994393401895724
+F1 score for extremely_harsh: 0.7750336775931747
+Accuracy score for vulgar: 0.9946060273727325
+F1 score for vulgar: 0.9505843756407627
+Accuracy score for threatening: 0.9998545194104679
+F1 score for threatening: 0.9759704251386322
+Accuracy score for disrespect: 0.9901073199118163
+F1 score for disrespect: 0.9050687285223368
+Accuracy score for targeted_hate: 0.9988697277274813
+F1 score for targeted_hate: 0.9400593471810089
+

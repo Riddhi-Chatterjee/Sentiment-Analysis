@@ -1,0 +1,27 @@
+Model: SGD Classifier
+Data matrix: Bag of Words
+
+ROC_AUC scores for the test split:
+ROC_AUC score for harsh: 0.8891544649065385
+ROC_AUC score for extremely_harsh: 0.6282381333388752
+ROC_AUC score for vulgar: 0.8137958502868775
+ROC_AUC score for threatening: 0.6354432251616456
+ROC_AUC score for disrespect: 0.7451506199758973
+ROC_AUC score for targeted_hate: 0.573809539633275
+
+Mean ROC_AUC_score: 0.7142653055505183
+
+Accuracy and f1 scores for the entire training data:
+Accuracy score for harsh: 0.974014928546649
+F1 score for harsh: 0.8606409794742528
+Accuracy score for extremely_harsh: 0.9907675779720005
+F1 score for extremely_harsh: 0.4017403915881073
+Accuracy score for vulgar: 0.9749437661567385
+F1 score for vulgar: 0.7305980026470942
+Accuracy score for threatening: 0.997437303461319
+F1 score for threatening: 0.4317617866004963
+Accuracy score for disrespect: 0.9712172249018006
+F1 score for disrespect: 0.6398767852142258
+Accuracy score for targeted_hate: 0.9906444790116272
+F1 score for targeted_hate: 0.364741641337386
+

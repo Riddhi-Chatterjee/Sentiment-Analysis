@@ -1,0 +1,27 @@
+Model: GB Classifier
+Data matrix: Paragraph Vector - Distributed Bag Of Words
+
+ROC_AUC scores for the test split:
+ROC_AUC score for harsh: 0.9564689325555052
+ROC_AUC score for extremely_harsh: 0.9754071010617418
+ROC_AUC score for vulgar: 0.9676602913859726
+ROC_AUC score for threatening: 0.9616206376078488
+ROC_AUC score for disrespect: 0.9690528577184898
+ROC_AUC score for targeted_hate: 0.9658051267055234
+
+Mean ROC_AUC_score: 0.9660024911725135
+
+Accuracy and f1 scores for the entire training data:
+Accuracy score for harsh: 0.9516892534607594
+F1 score for harsh: 0.7078172588832486
+Accuracy score for extremely_harsh: 0.9922335746819011
+F1 score for extremely_harsh: 0.5021520803443329
+Accuracy score for vulgar: 0.9727391756845981
+F1 score for vulgar: 0.7034331628926224
+Accuracy score for threatening: 0.9984109043297261
+F1 score for threatening: 0.6712962962962963
+Accuracy score for disrespect: 0.9707136382457279
+F1 score for disrespect: 0.6542475888492536
+Accuracy score for targeted_hate: 0.9931624122919908
+F1 score for targeted_hate: 0.44504995458673935
+

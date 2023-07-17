@@ -1,0 +1,27 @@
+Model: GB Classifier
+Data matrix: Word2Vec Method_1
+
+ROC_AUC scores for the test split:
+ROC_AUC score for harsh: 0.9451841505959925
+ROC_AUC score for extremely_harsh: 0.9749846730953073
+ROC_AUC score for vulgar: 0.9611634067755305
+ROC_AUC score for threatening: 0.895477874436535
+ROC_AUC score for disrespect: 0.9596343985623718
+ROC_AUC score for targeted_hate: 0.9518769896389242
+
+Mean ROC_AUC_score: 0.9480535821841102
+
+Accuracy and f1 scores for the entire training data:
+Accuracy score for harsh: 0.952103313600197
+F1 score for harsh: 0.6914648212226067
+Accuracy score for extremely_harsh: 0.9922559563110599
+F1 score for extremely_harsh: 0.5292517006802722
+Accuracy score for vulgar: 0.9786926890408353
+F1 score for vulgar: 0.7751004016064257
+Accuracy score for threatening: 0.997806600342439
+F1 score for threatening: 0.5242718446601942
+Accuracy score for disrespect: 0.9715641401537618
+F1 score for disrespect: 0.6565752128666036
+Accuracy score for targeted_hate: 0.9931959847357289
+F1 score for targeted_hate: 0.4600355239786856
+

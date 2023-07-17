@@ -1,0 +1,27 @@
+Model: GB Classifier
+Data matrix: TF-IDF
+
+ROC_AUC scores for the test split:
+ROC_AUC score for harsh: 0.9338001755814234
+ROC_AUC score for extremely_harsh: 0.9216772078824742
+ROC_AUC score for vulgar: 0.9692043783248362
+ROC_AUC score for threatening: 0.7350745507577459
+ROC_AUC score for disrespect: 0.9531904427970082
+ROC_AUC score for targeted_hate: 0.8782016987113453
+
+Mean ROC_AUC_score: 0.8985247423424721
+
+Accuracy and f1 scores for the entire training data:
+Accuracy score for harsh: 0.9470450654103112
+F1 score for harsh: 0.6274015748031495
+Accuracy score for extremely_harsh: 0.9927371613379737
+F1 score for extremely_harsh: 0.5502425502425502
+Accuracy score for vulgar: 0.9782338656430801
+F1 score for vulgar: 0.7562351171826045
+Accuracy score for threatening: 0.9985899573629965
+F1 score for threatening: 0.7272727272727273
+Accuracy score for disrespect: 0.9714074687496503
+F1 score for disrespect: 0.6281472856934944
+Accuracy score for targeted_hate: 0.9948522252934792
+F1 score for targeted_hate: 0.6472392638036809
+

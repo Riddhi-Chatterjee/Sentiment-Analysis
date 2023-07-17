@@ -1,0 +1,27 @@
+Model: Logistic Regression Classifier
+Data matrix: Paragraph Vector - Distributed Bag Of Words
+
+ROC_AUC scores for the test split:
+ROC_AUC score for harsh: 0.9409008345435363
+ROC_AUC score for extremely_harsh: 0.9370452276473729
+ROC_AUC score for vulgar: 0.9414653906991477
+ROC_AUC score for threatening: 0.9203199659577957
+ROC_AUC score for disrespect: 0.9346037371093421
+ROC_AUC score for targeted_hate: 0.8511451775167133
+
+Mean ROC_AUC_score: 0.920913388912318
+
+Accuracy and f1 scores for the entire training data:
+Accuracy score for harsh: 0.9143657598055762
+F1 score for harsh: 0.6735017802754065
+Accuracy score for extremely_harsh: 0.974313103355161
+F1 score for extremely_harsh: 0.4296777416937297
+Accuracy score for vulgar: 0.9562321384369585
+F1 score for vulgar: 0.6971820021796669
+Accuracy score for threatening: 0.9960170120839803
+F1 score for threatening: 0.5874125874125874
+Accuracy score for disrespect: 0.9453970611399897
+F1 score for disrespect: 0.6296268030222086
+Accuracy score for targeted_hate: 0.982380341591845
+F1 score for targeted_hate: 0.48180013236267377
+

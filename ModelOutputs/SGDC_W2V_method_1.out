@@ -1,0 +1,27 @@
+Model: SGD Classifier
+Data matrix: Word2Vec Method_1
+
+ROC_AUC scores for the test split:
+ROC_AUC score for harsh: 0.802141385758693
+ROC_AUC score for extremely_harsh: 0.6596552572149021
+ROC_AUC score for vulgar: 0.8276396305795262
+ROC_AUC score for threatening: 0.6691363942317498
+ROC_AUC score for disrespect: 0.763900605152134
+ROC_AUC score for targeted_hate: 0.6374640286574464
+
+Mean ROC_AUC_score: 0.7266562169324087
+
+Accuracy and f1 scores for the entire training data:
+Accuracy score for harsh: 0.9432513792678969
+F1 score for harsh: 0.6848157125986698
+Accuracy score for extremely_harsh: 0.9909690126344297
+F1 score for extremely_harsh: 0.5316308763784098
+Accuracy score for vulgar: 0.9754473528128113
+F1 score for vulgar: 0.7496576905522594
+Accuracy score for threatening: 0.9974149218321602
+F1 score for threatening: 0.5276073619631902
+Accuracy score for disrespect: 0.9683299947403171
+F1 score for disrespect: 0.63847726111395
+Accuracy score for targeted_hate: 0.9913159278863909
+F1 score for targeted_hate: 0.43686502177068215
+

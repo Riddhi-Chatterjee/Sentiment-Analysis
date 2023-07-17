@@ -1,0 +1,27 @@
+Model: GB Classifier
+Data matrix: Paragraph Vector - Distributed Memory
+
+ROC_AUC scores for the test split:
+ROC_AUC score for harsh: 0.9156296980817115
+ROC_AUC score for extremely_harsh: 0.9438613870531238
+ROC_AUC score for vulgar: 0.9370494930676645
+ROC_AUC score for threatening: 0.8694278152854549
+ROC_AUC score for disrespect: 0.9416346275730431
+ROC_AUC score for targeted_hate: 0.94433862574518
+
+Mean ROC_AUC_score: 0.9253236078010296
+
+Accuracy and f1 scores for the entire training data:
+Accuracy score for harsh: 0.9386743361049251
+F1 score for harsh: 0.5796256520405032
+Accuracy score for extremely_harsh: 0.9909578218198503
+F1 score for extremely_harsh: 0.31525423728813556
+Accuracy score for vulgar: 0.9658792063474301
+F1 score for vulgar: 0.5786928285201051
+Accuracy score for threatening: 0.9983549502568292
+F1 score for threatening: 0.6405867970660147
+Accuracy score for disrespect: 0.963573898544075
+F1 score for disrespect: 0.503735325506937
+Accuracy score for targeted_hate: 0.9924238185297508
+F1 score for targeted_hate: 0.3303659742828882
+

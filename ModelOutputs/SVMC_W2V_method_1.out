@@ -1,0 +1,27 @@
+Model: SVM Classifier
+Data matrix: Word2Vec Method_1
+
+ROC_AUC scores for the test split:
+ROC_AUC score for harsh: 0.5294058737467275
+ROC_AUC score for extremely_harsh: 0.6637239586941363
+ROC_AUC score for vulgar: 0.5808028376314951
+ROC_AUC score for threatening: 0.777648030676974
+ROC_AUC score for disrespect: 0.5480618357801107
+ROC_AUC score for targeted_hate: 0.6270564309782212
+
+Mean ROC_AUC_score: 0.6211164945846107
+
+Accuracy and f1 scores for the entire training data:
+Accuracy score for harsh: 0.09718103380745084
+F1 score for harsh: 0.17487445409264318
+Accuracy score for extremely_harsh: 0.032755514273884
+F1 score for extremely_harsh: 0.020422966203504322
+Accuracy score for vulgar: 0.05774460322966909
+F1 score for vulgar: 0.10094711327987356
+Accuracy score for threatening: 0.9984220951443056
+F1 score for threatening: 0.6682352941176471
+Accuracy score for disrespect: 0.051992524535860965
+F1 score for disrespect: 0.09373629312650442
+Accuracy score for targeted_hate: 0.040712183439832586
+F1 score for targeted_hate: 0.01812079768163751
+

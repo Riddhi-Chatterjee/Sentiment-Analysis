@@ -1,0 +1,27 @@
+Model: SVM Classifier
+Data matrix: Bag of Words
+
+ROC_AUC scores for the test split:
+ROC_AUC score for harsh: 0.6334306076660778
+ROC_AUC score for extremely_harsh: 0.8178649939269665
+ROC_AUC score for vulgar: 0.6386441859674493
+ROC_AUC score for threatening: 0.8694208038427804
+ROC_AUC score for disrespect: 0.6119555824711175
+ROC_AUC score for targeted_hate: 0.683779001375717
+
+Mean ROC_AUC_score: 0.7091825292083515
+
+Accuracy and f1 scores for the entire training data:
+Accuracy score for harsh: 0.0957598003558679
+F1 score for harsh: 0.17458014955256812
+Accuracy score for extremely_harsh: 0.010530556519209033
+F1 score for extremely_harsh: 0.020190602836879436
+Accuracy score for vulgar: 0.053145178437538465
+F1 score for vulgar: 0.10067813184243533
+Accuracy score for threatening: 0.0035474882216676553
+F1 score for threatening: 0.005939223435371872
+Accuracy score for disrespect: 0.04922839333475083
+F1 score for disrespect: 0.09348925545763001
+Accuracy score for targeted_hate: 0.010015779048556944
+F1 score for targeted_hate: 0.017699704634790914
+

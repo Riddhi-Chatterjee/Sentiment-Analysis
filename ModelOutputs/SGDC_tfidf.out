@@ -1,0 +1,27 @@
+Model: SGD Classifier
+Data matrix: TF-IDF
+
+ROC_AUC scores for the test split:
+ROC_AUC score for harsh: 0.9716818218231688
+ROC_AUC score for extremely_harsh: 0.9602096524285205
+ROC_AUC score for vulgar: 0.9864160610341581
+ROC_AUC score for threatening: 0.9708081771268893
+ROC_AUC score for disrespect: 0.978438704595472
+ROC_AUC score for targeted_hate: 0.9557324861929858
+
+Mean ROC_AUC_score: 0.970547817200199
+
+Accuracy and f1 scores for the entire training data:
+Accuracy score for harsh: 0.9639879586835126
+F1 score for harsh: 0.7762480878876373
+Accuracy score for extremely_harsh: 0.9909690126344297
+F1 score for extremely_harsh: 0.3072961373390558
+Accuracy score for vulgar: 0.9802705938965297
+F1 score for vulgar: 0.7825336129271
+Accuracy score for threatening: 0.9973701585738426
+F1 score for threatening: 0.26332288401253917
+Accuracy score for disrespect: 0.9755480701440258
+F1 score for disrespect: 0.6994911291431716
+Accuracy score for targeted_hate: 0.9921440481652659
+F1 score for targeted_hate: 0.25792811839323465
+

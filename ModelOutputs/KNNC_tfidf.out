@@ -1,0 +1,13 @@
+Model: KNN Classifier
+Data matrix: TF-IDF
+
+ROC_AUC scores for the test split:
+ROC_AUC score for harsh: 0.8163265792474783
+ROC_AUC score for extremely_harsh: 0.7761864929271097
+ROC_AUC score for vulgar: 0.833651346276077
+ROC_AUC score for threatening: 0.7707309237766945
+ROC_AUC score for disrespect: 0.8139149282015968
+ROC_AUC score for targeted_hate: 0.6705375597307051
+
+Mean ROC_AUC_score: 0.7802246383599435
+

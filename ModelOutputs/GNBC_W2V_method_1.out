@@ -1,0 +1,27 @@
+Model: Gaussian Naive Bayes Classifier
+Data matrix: Word2Vec Method_1
+
+ROC_AUC scores for the test split:
+ROC_AUC score for harsh: 0.6933406658420449
+ROC_AUC score for extremely_harsh: 0.8018951266513431
+ROC_AUC score for vulgar: 0.7114061448063983
+ROC_AUC score for threatening: 0.7513092662469496
+ROC_AUC score for disrespect: 0.7129816239411763
+ROC_AUC score for targeted_hate: 0.7435885474135133
+
+Mean ROC_AUC_score: 0.7357535624835708
+
+Accuracy and f1 scores for the entire training data:
+Accuracy score for harsh: 0.6201984743131034
+F1 score for harsh: 0.27064517523011106
+Accuracy score for extremely_harsh: 0.7201219649407052
+F1 score for extremely_harsh: 0.05701504985025967
+Accuracy score for vulgar: 0.6391007898467562
+F1 score for vulgar: 0.1826521251656304
+Accuracy score for threatening: 0.7052701455928351
+F1 score for threatening: 0.017478714226773186
+Accuracy score for disrespect: 0.6305722451000247
+F1 score for disrespect: 0.16901194573800363
+Accuracy score for targeted_hate: 0.6586219311865703
+F1 score for targeted_hate: 0.03853344741261843
+

@@ -1,0 +1,287 @@
+
+Starting from:
+epoch = 0
+batchNum = 0
+batchSize = 1
+
+Epoch : 0  BatchNum : 0  Loss : 0.20946207642555237
+
+y_pred:
+tensor([[0.5423, 0.4577]], device='cuda:0', grad_fn=<CopySlices>)
+
+labels:
+tensor([[1., 0.]], device='cuda:0')
+
+
+Epoch : 1  BatchNum : 0  Loss : 0.00230028061196208
+
+y_pred:
+tensor([[0.9520, 0.0480]], device='cuda:0', grad_fn=<CopySlices>)
+
+labels:
+tensor([[1., 0.]], device='cuda:0')
+
+
+Epoch : 2  BatchNum : 0  Loss : 0.0008918650564737618
+
+y_pred:
+tensor([[0.9701, 0.0299]], device='cuda:0', grad_fn=<CopySlices>)
+
+labels:
+tensor([[1., 0.]], device='cuda:0')
+
+
+Epoch : 3  BatchNum : 0  Loss : 0.0006588271935470402
+
+y_pred:
+tensor([[0.9743, 0.0257]], device='cuda:0', grad_fn=<CopySlices>)
+
+labels:
+tensor([[1., 0.]], device='cuda:0')
+
+
+Epoch : 4  BatchNum : 0  Loss : 0.0005703488131985068
+
+y_pred:
+tensor([[0.9761, 0.0239]], device='cuda:0', grad_fn=<CopySlices>)
+
+labels:
+tensor([[1., 0.]], device='cuda:0')
+
+
+Epoch : 5  BatchNum : 0  Loss : 0.0005246800719760358
+
+y_pred:
+tensor([[0.9771, 0.0229]], device='cuda:0', grad_fn=<CopySlices>)
+
+labels:
+tensor([[1., 0.]], device='cuda:0')
+
+
+Epoch : 6  BatchNum : 0  Loss : 0.0004975913325324655
+
+y_pred:
+tensor([[0.9777, 0.0223]], device='cuda:0', grad_fn=<CopySlices>)
+
+labels:
+tensor([[1., 0.]], device='cuda:0')
+
+
+Epoch : 7  BatchNum : 0  Loss : 0.0004800395981874317
+
+y_pred:
+tensor([[0.9781, 0.0219]], device='cuda:0', grad_fn=<CopySlices>)
+
+labels:
+tensor([[1., 0.]], device='cuda:0')
+
+
+Epoch : 8  BatchNum : 0  Loss : 0.0004684741434175521
+
+y_pred:
+tensor([[0.9784, 0.0216]], device='cuda:0', grad_fn=<CopySlices>)
+
+labels:
+tensor([[1., 0.]], device='cuda:0')
+
+
+Epoch : 9  BatchNum : 0  Loss : 0.0004609597963280976
+
+y_pred:
+tensor([[0.9785, 0.0215]], device='cuda:0', grad_fn=<CopySlices>)
+
+labels:
+tensor([[1., 0.]], device='cuda:0')
+
+
+Epoch : 10  BatchNum : 0  Loss : 0.0004552762839011848
+
+y_pred:
+tensor([[0.9787, 0.0213]], device='cuda:0', grad_fn=<CopySlices>)
+
+labels:
+tensor([[1., 0.]], device='cuda:0')
+
+
+Epoch : 11  BatchNum : 0  Loss : 0.0004515232576522976
+
+y_pred:
+tensor([[0.9788, 0.0212]], device='cuda:0', grad_fn=<CopySlices>)
+
+labels:
+tensor([[1., 0.]], device='cuda:0')
+
+
+Epoch : 12  BatchNum : 0  Loss : 0.0004461653297767043
+
+y_pred:
+tensor([[0.9789, 0.0211]], device='cuda:0', grad_fn=<CopySlices>)
+
+labels:
+tensor([[1., 0.]], device='cuda:0')
+
+
+Epoch : 13  BatchNum : 0  Loss : 0.0004424434737302363
+
+y_pred:
+tensor([[0.9790, 0.0210]], device='cuda:0', grad_fn=<CopySlices>)
+
+labels:
+tensor([[1., 0.]], device='cuda:0')
+
+
+Epoch : 14  BatchNum : 0  Loss : 0.0004398805322125554
+
+y_pred:
+tensor([[0.9790, 0.0210]], device='cuda:0', grad_fn=<CopySlices>)
+
+labels:
+tensor([[1., 0.]], device='cuda:0')
+
+
+Epoch : 15  BatchNum : 0  Loss : 0.0004376458819024265
+
+y_pred:
+tensor([[0.9791, 0.0209]], device='cuda:0', grad_fn=<CopySlices>)
+
+labels:
+tensor([[1., 0.]], device='cuda:0')
+
+
+Epoch : 16  BatchNum : 0  Loss : 0.0004341652092989534
+
+y_pred:
+tensor([[0.9792, 0.0208]], device='cuda:0', grad_fn=<CopySlices>)
+
+labels:
+tensor([[1., 0.]], device='cuda:0')
+
+
+Epoch : 17  BatchNum : 0  Loss : 0.0004305197508074343
+
+y_pred:
+tensor([[0.9793, 0.0207]], device='cuda:0', grad_fn=<CopySlices>)
+
+labels:
+tensor([[1., 0.]], device='cuda:0')
+
+
+Epoch : 18  BatchNum : 0  Loss : 0.0004275136161595583
+
+y_pred:
+tensor([[0.9793, 0.0207]], device='cuda:0', grad_fn=<CopySlices>)
+
+labels:
+tensor([[1., 0.]], device='cuda:0')
+
+
+Epoch : 19  BatchNum : 0  Loss : 0.00042444083373993635
+
+y_pred:
+tensor([[0.9794, 0.0206]], device='cuda:0', grad_fn=<CopySlices>)
+
+labels:
+tensor([[1., 0.]], device='cuda:0')
+
+
+Epoch : 20  BatchNum : 0  Loss : 0.00042183900950476527
+
+y_pred:
+tensor([[0.9795, 0.0205]], device='cuda:0', grad_fn=<CopySlices>)
+
+labels:
+tensor([[1., 0.]], device='cuda:0')
+
+
+Epoch : 21  BatchNum : 0  Loss : 0.00041884102392941713
+
+y_pred:
+tensor([[0.9795, 0.0205]], device='cuda:0', grad_fn=<CopySlices>)
+
+labels:
+tensor([[1., 0.]], device='cuda:0')
+
+
+Epoch : 22  BatchNum : 0  Loss : 0.00041628474718891084
+
+y_pred:
+tensor([[0.9796, 0.0204]], device='cuda:0', grad_fn=<CopySlices>)
+
+labels:
+tensor([[1., 0.]], device='cuda:0')
+
+
+Epoch : 23  BatchNum : 0  Loss : 0.0004129524459131062
+
+y_pred:
+tensor([[0.9797, 0.0203]], device='cuda:0', grad_fn=<CopySlices>)
+
+labels:
+tensor([[1., 0.]], device='cuda:0')
+
+
+Epoch : 24  BatchNum : 0  Loss : 0.00041117443470284343
+
+y_pred:
+tensor([[0.9797, 0.0203]], device='cuda:0', grad_fn=<CopySlices>)
+
+labels:
+tensor([[1., 0.]], device='cuda:0')
+
+
+Epoch : 25  BatchNum : 0  Loss : 0.0004084041574969888
+
+y_pred:
+tensor([[0.9798, 0.0202]], device='cuda:0', grad_fn=<CopySlices>)
+
+labels:
+tensor([[1., 0.]], device='cuda:0')
+
+
+Epoch : 26  BatchNum : 0  Loss : 0.00040439763688482344
+
+y_pred:
+tensor([[0.9799, 0.0201]], device='cuda:0', grad_fn=<CopySlices>)
+
+labels:
+tensor([[1., 0.]], device='cuda:0')
+
+
+Epoch : 27  BatchNum : 0  Loss : 0.0004012869903817773
+
+y_pred:
+tensor([[0.9800, 0.0200]], device='cuda:0', grad_fn=<CopySlices>)
+
+labels:
+tensor([[1., 0.]], device='cuda:0')
+
+
+Epoch : 28  BatchNum : 0  Loss : 0.0003969050303567201
+
+y_pred:
+tensor([[0.9801, 0.0199]], device='cuda:0', grad_fn=<CopySlices>)
+
+labels:
+tensor([[1., 0.]], device='cuda:0')
+
+
+Epoch : 29  BatchNum : 0  Loss : 0.0003921691095456481
+
+y_pred:
+tensor([[0.9802, 0.0198]], device='cuda:0', grad_fn=<CopySlices>)
+
+labels:
+tensor([[1., 0.]], device='cuda:0')
+
+
+Epoch : 30  BatchNum : 0  Loss : 0.00038710059016011655
+
+y_pred:
+tensor([[0.9803, 0.0197]], device='cuda:0', grad_fn=<CopySlices>)
+
+labels:
+tensor([[1., 0.]], device='cuda:0')
+
+
+
+Exiting...
